@@ -18,7 +18,7 @@ The design brings CRM, point-of-sale/ERP, e-commerce, and shipping data into a s
 
 ## My contribution
 
-I am **Isha Shah**. I co-developed **Section 4: Project Implementation**, with Nicolas. The report's Appendix B credits us with:
+I developed **Section 4: Project Implementation**. The report's Appendix B credits me with:
 
 - Mapping the eight RFP requirements (R1–R8) to the proposed implementation.
 - Designing the DataOps and CI/CD approach across development, pre-production, and production.
