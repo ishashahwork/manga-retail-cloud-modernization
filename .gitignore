@@ -1,0 +1,50 @@
+# macOS and editor residue
+.DS_Store
+._*
+__MACOSX/
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+.aws/
+.ssh/
+.codex/
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+client_secret*.json
+service-account*.json
+terraform.tfstate
+terraform.tfstate.*
+*.tfvars
+*.tfplan
+.terraform/
+
+# Temporary outputs and caches
+/tmp/
+/output/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+cdk.out/
+*.log
+
+# Original course materials and duplicate archive; retain locally
+/Cloud Data Group Project/
+/Cloud Data Group Project.zip
+
+# Cover is marked CONFIDENTIAL; clarify status before sharing
+/Manga RFP Deck.pdf
+
+# Local preparation audit; not part of the public portfolio
+/PUBLICATION_NOTES.md
